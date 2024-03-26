@@ -64,7 +64,7 @@
 		"jest": "^27.4.5",
 		"jest-dev-server": "^6.0.2",
 		"jest-environment-node": "^27.4.4",
-		"markdownlint-cli": "^0.31.1",
+		"markdownlint-cli": "^0.38.0",
 		"merge-deep": "^3.0.3",
 		"mini-css-extract-plugin": "^2.5.1",
 		"minimist": "^1.2.0",
